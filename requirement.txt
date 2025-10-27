@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+wordcloud(If U Want to Include)
+mysql-connector-python
